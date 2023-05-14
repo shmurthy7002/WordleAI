@@ -1,0 +1,9 @@
+words
+selenium
+selenium.webdriver.chrome.options.Options
+webdriver_manager.chrome
+selenium.webdriver.common.by.By
+time
+pyautogui
+math
+keyboard
